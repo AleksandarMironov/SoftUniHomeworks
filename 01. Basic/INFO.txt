@@ -1,0 +1,3 @@
+These are my homeworks from SoftUni "0" level - "Basic".
+Subjects:
+1. Programing basics (C#) (05.2015)
