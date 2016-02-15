@@ -1,0 +1,12 @@
+C:\Users\Mironov\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe.config
+C:\Users\Mironov\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\obj\Debug\Fibonaci.csprojResolveAssemblyReference.cache
+C:\Users\Mironov\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe
+C:\Users\Mironov\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\bin\Debug\Fibonaci.pdb
+C:\Users\Mironov\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\obj\Debug\Fibonaci.exe
+C:\Users\Mironov\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\obj\Debug\Fibonaci.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\obj\Debug\Fibonaci.exe
+C:\Users\Viva\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\obj\Debug\Fibonaci.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe
+C:\Users\Viva\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\bin\Debug\Fibonaci.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 1\Homework\CODE\Fibonaci\Fibonaci\obj\Debug\Fibonaci.csprojResolveAssemblyReference.cache

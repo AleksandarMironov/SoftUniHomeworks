@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\06PerimeterAndAreaOfPolygon\bin\Debug\06PerimeterAndAreaOfPolygon.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\06PerimeterAndAreaOfPolygon\bin\Debug\06PerimeterAndAreaOfPolygon.exe
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\06PerimeterAndAreaOfPolygon\bin\Debug\06PerimeterAndAreaOfPolygon.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\06PerimeterAndAreaOfPolygon\obj\Debug\06PerimeterAndAreaOfPolygon.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\06PerimeterAndAreaOfPolygon\obj\Debug\06PerimeterAndAreaOfPolygon.exe
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\06PerimeterAndAreaOfPolygon\obj\Debug\06PerimeterAndAreaOfPolygon.pdb

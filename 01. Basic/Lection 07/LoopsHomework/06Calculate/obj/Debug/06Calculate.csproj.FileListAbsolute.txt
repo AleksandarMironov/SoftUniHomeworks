@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\06Calculate\bin\Debug\06Calculate.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\06Calculate\bin\Debug\06Calculate.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\06Calculate\bin\Debug\06Calculate.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\06Calculate\obj\Debug\06Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\06Calculate\obj\Debug\06Calculate.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\06Calculate\obj\Debug\06Calculate.pdb

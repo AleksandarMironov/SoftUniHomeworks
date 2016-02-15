@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\03CirclePerimeterAndArea\obj\Debug\03CirclePerimeterAndArea.pdb

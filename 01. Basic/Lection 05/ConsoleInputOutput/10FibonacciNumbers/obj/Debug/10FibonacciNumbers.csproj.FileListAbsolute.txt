@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb

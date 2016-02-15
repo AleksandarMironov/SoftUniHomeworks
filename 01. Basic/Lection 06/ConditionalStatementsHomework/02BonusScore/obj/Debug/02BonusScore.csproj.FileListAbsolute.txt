@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\02BonusScore\bin\Debug\02BonusScore.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\02BonusScore\bin\Debug\02BonusScore.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\02BonusScore\bin\Debug\02BonusScore.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\02BonusScore\obj\Debug\02BonusScore.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\02BonusScore\obj\Debug\02BonusScore.pdb

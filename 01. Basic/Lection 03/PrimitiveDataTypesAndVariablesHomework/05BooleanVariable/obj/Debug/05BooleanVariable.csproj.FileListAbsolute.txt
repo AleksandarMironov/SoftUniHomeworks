@@ -1,0 +1,9 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\05BooleanVariable\obj\Debug\05BooleanVariable.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\05BooleanVariable\bin\Debug\05BooleanVariable.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\05BooleanVariable\obj\Debug\05BooleanVariable.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\05BooleanVariable\obj\Debug\05BooleanVariable.pdb

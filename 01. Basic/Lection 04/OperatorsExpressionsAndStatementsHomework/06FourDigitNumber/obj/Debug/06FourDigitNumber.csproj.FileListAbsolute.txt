@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb

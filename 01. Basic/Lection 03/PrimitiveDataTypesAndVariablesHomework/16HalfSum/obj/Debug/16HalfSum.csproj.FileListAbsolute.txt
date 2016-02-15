@@ -1,0 +1,9 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\16HalfSum\bin\Debug\16HalfSum.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\16HalfSum\bin\Debug\16HalfSum.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\16HalfSum\bin\Debug\16HalfSum.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\16HalfSum\obj\Debug\16HalfSum.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\16HalfSum\obj\Debug\16HalfSum.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\16HalfSum\obj\Debug\16HalfSum.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\16HalfSum\bin\Debug\16HalfSum.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\16HalfSum\obj\Debug\16HalfSum.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\16HalfSum\obj\Debug\16HalfSum.pdb

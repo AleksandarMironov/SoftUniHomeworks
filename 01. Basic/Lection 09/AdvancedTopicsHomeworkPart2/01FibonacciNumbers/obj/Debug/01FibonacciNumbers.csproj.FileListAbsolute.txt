@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\09Trapezoids\bin\Debug\09Trapezoids.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\09Trapezoids\bin\Debug\09Trapezoids.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\09Trapezoids\bin\Debug\09Trapezoids.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\09Trapezoids\obj\Debug\09Trapezoids.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\09Trapezoids\obj\Debug\09Trapezoids.pdb

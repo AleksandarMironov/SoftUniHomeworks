@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\03MinMaxSumAndAverageOfNNumbers\bin\Debug\03MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\03MinMaxSumAndAverageOfNNumbers\bin\Debug\03MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\03MinMaxSumAndAverageOfNNumbers\bin\Debug\03MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\03MinMaxSumAndAverageOfNNumbers\obj\Debug\03MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\03MinMaxSumAndAverageOfNNumbers\obj\Debug\03MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\03MinMaxSumAndAverageOfNNumbers\obj\Debug\03MinMaxSumAndAverageOfNNumbers.pdb

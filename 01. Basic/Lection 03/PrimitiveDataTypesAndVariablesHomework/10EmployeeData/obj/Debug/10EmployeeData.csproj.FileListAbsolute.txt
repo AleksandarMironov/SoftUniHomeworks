@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\10EmployeeData\bin\Debug\10EmployeeData.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\10EmployeeData\bin\Debug\10EmployeeData.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\10EmployeeData\obj\Debug\10EmployeeData.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\10EmployeeData\obj\Debug\10EmployeeData.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\10EmployeeData\obj\Debug\10EmployeeData.csprojResolveAssemblyReference.cache

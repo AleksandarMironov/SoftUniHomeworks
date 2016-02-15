@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\THE test\CODE\TheExam\Problem5\bin\Debug\Problem5.exe.config
+C:\Users\Viva\Desktop\Softuni\THE test\CODE\TheExam\Problem5\bin\Debug\Problem5.exe
+C:\Users\Viva\Desktop\Softuni\THE test\CODE\TheExam\Problem5\bin\Debug\Problem5.pdb
+C:\Users\Viva\Desktop\Softuni\THE test\CODE\TheExam\Problem5\obj\Debug\Problem5.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\THE test\CODE\TheExam\Problem5\obj\Debug\Problem5.exe
+C:\Users\Viva\Desktop\Softuni\THE test\CODE\TheExam\Problem5\obj\Debug\Problem5.pdb

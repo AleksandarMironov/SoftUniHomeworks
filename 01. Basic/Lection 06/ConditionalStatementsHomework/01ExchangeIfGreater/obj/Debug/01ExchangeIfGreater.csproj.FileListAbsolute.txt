@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.pdb

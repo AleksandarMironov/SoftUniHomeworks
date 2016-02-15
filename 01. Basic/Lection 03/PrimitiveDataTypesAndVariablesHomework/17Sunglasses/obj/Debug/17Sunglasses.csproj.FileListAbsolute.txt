@@ -1,0 +1,12 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\bin\Debug\17Sunglasses.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\bin\Debug\17Sunglasses.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\bin\Debug\17Sunglasses.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\obj\Debug\17Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\obj\Debug\17Sunglasses.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\obj\Debug\17Sunglasses.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\bin\Debug\17Sunglasses.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\obj\Debug\17Sunglasses.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\obj\Debug\17Sunglasses.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\bin\Debug\17Sunglasses.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\bin\Debug\17Sunglasses.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\17Sunglasses\obj\Debug\17Sunglasses.csprojResolveAssemblyReference.cache

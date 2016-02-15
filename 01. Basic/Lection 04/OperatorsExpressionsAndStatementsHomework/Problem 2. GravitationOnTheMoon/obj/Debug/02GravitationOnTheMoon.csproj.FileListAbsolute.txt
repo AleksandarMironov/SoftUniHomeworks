@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\Problem 2. GravitationOnTheMoon\bin\Debug\Problem_2.GravitationOnTheMoon.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\Problem 2. GravitationOnTheMoon\bin\Debug\Problem_2.GravitationOnTheMoon.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\Problem 2. GravitationOnTheMoon\bin\Debug\Problem_2.GravitationOnTheMoon.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\Problem 2. GravitationOnTheMoon\obj\Debug\Problem_2.GravitationOnTheMoon.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\Problem 2. GravitationOnTheMoon\obj\Debug\Problem_2.GravitationOnTheMoon.pdb

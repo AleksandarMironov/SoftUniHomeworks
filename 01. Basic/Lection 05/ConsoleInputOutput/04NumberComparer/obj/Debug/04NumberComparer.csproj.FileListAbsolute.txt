@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\04NumberComparer\bin\Debug\04NumberComparer.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\04NumberComparer\bin\Debug\04NumberComparer.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\04NumberComparer\bin\Debug\04NumberComparer.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\04NumberComparer\obj\Debug\04NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\04NumberComparer\obj\Debug\04NumberComparer.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\04NumberComparer\obj\Debug\04NumberComparer.pdb

@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

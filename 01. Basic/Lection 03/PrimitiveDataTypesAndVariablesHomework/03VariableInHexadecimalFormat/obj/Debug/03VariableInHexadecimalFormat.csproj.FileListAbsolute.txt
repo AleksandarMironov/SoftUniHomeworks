@@ -1,0 +1,8 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.pdb

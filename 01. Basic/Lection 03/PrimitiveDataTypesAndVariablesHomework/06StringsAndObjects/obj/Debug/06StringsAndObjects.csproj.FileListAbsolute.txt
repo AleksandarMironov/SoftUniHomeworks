@@ -1,0 +1,8 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\06StringsAndObjects\bin\Debug\06StringsAndObjects.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb

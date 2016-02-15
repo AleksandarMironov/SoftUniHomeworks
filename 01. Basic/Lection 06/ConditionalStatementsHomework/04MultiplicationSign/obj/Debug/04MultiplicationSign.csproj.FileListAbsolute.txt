@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb

@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\05PointClass\bin\Debug\05PointClass.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\05PointClass\obj\Debug\05PointClass.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\05PointClass\bin\Debug\05PointClass.exe
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\05PointClass\bin\Debug\05PointClass.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\05PointClass\obj\Debug\05PointClass.exe
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\05PointClass\obj\Debug\05PointClass.pdb

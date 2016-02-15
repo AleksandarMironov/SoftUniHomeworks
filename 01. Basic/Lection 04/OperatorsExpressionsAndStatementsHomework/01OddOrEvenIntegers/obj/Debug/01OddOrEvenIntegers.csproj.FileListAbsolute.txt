@@ -1,0 +1,9 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\01OddOrEvenIntegers\bin\Debug\01OddOrEvenIntegers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\01OddOrEvenIntegers\obj\Debug\01OddOrEvenIntegers.pdb

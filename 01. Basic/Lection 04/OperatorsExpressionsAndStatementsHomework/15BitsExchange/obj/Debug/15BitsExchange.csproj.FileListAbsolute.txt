@@ -1,0 +1,9 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\15BitsExchange\bin\Debug\15BitsExchange.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\15BitsExchange\bin\Debug\15BitsExchange.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\15BitsExchange\obj\Debug\15BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\15BitsExchange\obj\Debug\15BitsExchange.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\15BitsExchange\obj\Debug\15BitsExchange.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\15BitsExchange\obj\Debug\15BitsExchange.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\15BitsExchange\obj\Debug\15BitsExchange.pdb

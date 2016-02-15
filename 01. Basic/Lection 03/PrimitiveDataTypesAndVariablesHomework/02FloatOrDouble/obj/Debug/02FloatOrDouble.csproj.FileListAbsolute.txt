@@ -1,0 +1,9 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\02FloatOrDouble\obj\Debug\02FloatOrDouble.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb

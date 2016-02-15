@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Exams\Basics Exam 11 April 2014 Morning\Basics Exam 11 April 2014 Morning\04MagicStrings\bin\Debug\04MagicStrings.exe.config
+C:\Users\Viva\Desktop\Softuni\Exams\Basics Exam 11 April 2014 Morning\Basics Exam 11 April 2014 Morning\04MagicStrings\bin\Debug\04MagicStrings.exe
+C:\Users\Viva\Desktop\Softuni\Exams\Basics Exam 11 April 2014 Morning\Basics Exam 11 April 2014 Morning\04MagicStrings\bin\Debug\04MagicStrings.pdb
+C:\Users\Viva\Desktop\Softuni\Exams\Basics Exam 11 April 2014 Morning\Basics Exam 11 April 2014 Morning\04MagicStrings\obj\Debug\04MagicStrings.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Exams\Basics Exam 11 April 2014 Morning\Basics Exam 11 April 2014 Morning\04MagicStrings\obj\Debug\04MagicStrings.exe
+C:\Users\Viva\Desktop\Softuni\Exams\Basics Exam 11 April 2014 Morning\Basics Exam 11 April 2014 Morning\04MagicStrings\obj\Debug\04MagicStrings.pdb

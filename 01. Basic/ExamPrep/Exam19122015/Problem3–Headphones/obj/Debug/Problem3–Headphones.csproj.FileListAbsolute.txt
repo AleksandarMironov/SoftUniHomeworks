@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem3–Headphones\bin\Debug\Problem3–Headphones.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem3–Headphones\bin\Debug\Problem3–Headphones.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem3–Headphones\bin\Debug\Problem3–Headphones.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem3–Headphones\obj\Debug\Problem3–Headphones.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem3–Headphones\obj\Debug\Problem3–Headphones.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem3–Headphones\obj\Debug\Problem3–Headphones.csprojResolveAssemblyReference.cache

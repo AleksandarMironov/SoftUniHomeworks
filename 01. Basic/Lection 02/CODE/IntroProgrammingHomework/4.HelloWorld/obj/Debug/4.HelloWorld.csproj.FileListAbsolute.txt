@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\4.HelloWorld\bin\Debug\4.HelloWorld.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\4.HelloWorld\bin\Debug\4.HelloWorld.exe
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\4.HelloWorld\bin\Debug\4.HelloWorld.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\4.HelloWorld\obj\Debug\4.HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\4.HelloWorld\obj\Debug\4.HelloWorld.exe
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\4.HelloWorld\obj\Debug\4.HelloWorld.pdb

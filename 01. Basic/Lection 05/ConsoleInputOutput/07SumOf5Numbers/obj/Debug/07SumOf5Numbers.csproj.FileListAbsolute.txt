@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\07SumOf5Numbers\bin\Debug\07SumOf5Numbers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\07SumOf5Numbers\obj\Debug\07SumOf5Numbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\07SumOf5Numbers\obj\Debug\07SumOf5Numbers.pdb

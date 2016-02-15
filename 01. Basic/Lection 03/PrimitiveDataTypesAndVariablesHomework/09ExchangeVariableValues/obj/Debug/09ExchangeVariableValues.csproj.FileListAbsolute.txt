@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb

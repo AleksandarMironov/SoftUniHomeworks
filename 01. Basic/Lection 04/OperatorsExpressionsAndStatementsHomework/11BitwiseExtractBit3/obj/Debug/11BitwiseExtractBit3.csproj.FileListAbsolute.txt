@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.pdb

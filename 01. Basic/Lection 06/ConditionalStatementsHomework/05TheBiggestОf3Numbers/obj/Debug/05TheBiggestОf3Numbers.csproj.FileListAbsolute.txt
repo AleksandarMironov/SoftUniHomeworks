@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\05TheBiggestОf3Numbers\bin\Debug\05TheBiggestОf3Numbers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\05TheBiggestОf3Numbers\bin\Debug\05TheBiggestОf3Numbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\05TheBiggestОf3Numbers\bin\Debug\05TheBiggestОf3Numbers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\05TheBiggestОf3Numbers\obj\Debug\05TheBiggestОf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\05TheBiggestОf3Numbers\obj\Debug\05TheBiggestОf3Numbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\05TheBiggestОf3Numbers\obj\Debug\05TheBiggestОf3Numbers.pdb

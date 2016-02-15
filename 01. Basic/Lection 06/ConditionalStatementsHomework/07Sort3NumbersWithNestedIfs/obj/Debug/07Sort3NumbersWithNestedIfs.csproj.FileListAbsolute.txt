@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\07Sort3NumbersWithNestedIfs\bin\Debug\07Sort3NumbersWithNestedIfs.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\07Sort3NumbersWithNestedIfs\bin\Debug\07Sort3NumbersWithNestedIfs.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\07Sort3NumbersWithNestedIfs\bin\Debug\07Sort3NumbersWithNestedIfs.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\07Sort3NumbersWithNestedIfs\obj\Debug\07Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\07Sort3NumbersWithNestedIfs\obj\Debug\07Sort3NumbersWithNestedIfs.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\07Sort3NumbersWithNestedIfs\obj\Debug\07Sort3NumbersWithNestedIfs.pdb

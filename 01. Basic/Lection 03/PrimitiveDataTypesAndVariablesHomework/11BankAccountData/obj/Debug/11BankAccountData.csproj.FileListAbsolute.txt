@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\11BankAccountData\bin\Debug\11BankAccountData.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\11BankAccountData\bin\Debug\11BankAccountData.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\11BankAccountData\bin\Debug\11BankAccountData.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\11BankAccountData\obj\Debug\11BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\11BankAccountData\obj\Debug\11BankAccountData.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\11BankAccountData\obj\Debug\11BankAccountData.pdb

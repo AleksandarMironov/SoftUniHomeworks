@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\9.PrintASequence\bin\Debug\9.PrintASequence.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\9.PrintASequence\bin\Debug\9.PrintASequence.exe
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\9.PrintASequence\bin\Debug\9.PrintASequence.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\9.PrintASequence\obj\Debug\9.PrintASequence.exe
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\9.PrintASequence\obj\Debug\9.PrintASequence.pdb

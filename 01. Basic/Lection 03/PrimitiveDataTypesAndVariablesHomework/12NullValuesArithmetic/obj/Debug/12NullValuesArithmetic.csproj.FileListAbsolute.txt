@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.pdb

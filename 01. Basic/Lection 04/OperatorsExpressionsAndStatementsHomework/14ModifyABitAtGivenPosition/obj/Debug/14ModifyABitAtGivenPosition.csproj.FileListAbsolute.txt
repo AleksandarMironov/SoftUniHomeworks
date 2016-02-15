@@ -1,0 +1,9 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\14ModifyABitAtGivenPosition\bin\Debug\14ModifyABitAtGivenPosition.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\14ModifyABitAtGivenPosition\obj\Debug\14ModifyABitAtGivenPosition.pdb

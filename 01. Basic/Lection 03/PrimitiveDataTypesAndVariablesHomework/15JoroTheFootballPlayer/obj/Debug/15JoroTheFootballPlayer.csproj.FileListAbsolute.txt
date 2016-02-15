@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\15JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\15JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\15JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.pdb

@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.pdb

@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\07CountOfLetters\bin\Debug\07CountOfLetters.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\07CountOfLetters\bin\Debug\07CountOfLetters.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\07CountOfLetters\bin\Debug\07CountOfLetters.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\07CountOfLetters\obj\Debug\07CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\07CountOfLetters\obj\Debug\07CountOfLetters.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\07CountOfLetters\obj\Debug\07CountOfLetters.pdb

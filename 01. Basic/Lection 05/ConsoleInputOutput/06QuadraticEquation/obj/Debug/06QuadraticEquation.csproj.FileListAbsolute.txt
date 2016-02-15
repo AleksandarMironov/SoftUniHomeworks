@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb

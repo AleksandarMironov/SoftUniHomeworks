@@ -1,0 +1,1 @@
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe.config

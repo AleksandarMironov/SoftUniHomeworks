@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem2–SpyHard\bin\Debug\Problem2–SpyHard.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem2–SpyHard\bin\Debug\Problem2–SpyHard.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem2–SpyHard\bin\Debug\Problem2–SpyHard.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem2–SpyHard\obj\Debug\Problem2–SpyHard.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem2–SpyHard\obj\Debug\Problem2–SpyHard.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem2–SpyHard\obj\Debug\Problem2–SpyHard.pdb

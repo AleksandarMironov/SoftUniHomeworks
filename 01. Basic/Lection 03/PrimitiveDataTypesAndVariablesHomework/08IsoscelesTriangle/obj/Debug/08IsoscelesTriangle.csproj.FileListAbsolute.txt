@@ -1,0 +1,9 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb

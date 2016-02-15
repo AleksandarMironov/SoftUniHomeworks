@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.pdb

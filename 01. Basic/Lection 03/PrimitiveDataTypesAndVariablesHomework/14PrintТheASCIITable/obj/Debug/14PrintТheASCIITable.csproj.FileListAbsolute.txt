@@ -1,0 +1,7 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\14PrintТheASCIITable\bin\Debug\14PrintТheASCIITable.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\14PrintТheASCIITable\bin\Debug\14PrintТheASCIITable.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\14PrintТheASCIITable\bin\Debug\14PrintТheASCIITable.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\14PrintТheASCIITable\bin\Debug\14PrintТheASCIITable.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\14PrintТheASCIITable\obj\Debug\14PrintТheASCIITable.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\14PrintТheASCIITable\obj\Debug\14PrintТheASCIITable.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\14PrintТheASCIITable\obj\Debug\14PrintТheASCIITable.pdb

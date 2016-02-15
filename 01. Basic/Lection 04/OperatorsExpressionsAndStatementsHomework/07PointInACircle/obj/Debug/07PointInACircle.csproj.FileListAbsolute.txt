@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\07PointInACircle\bin\Debug\07PointInACircle.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\07PointInACircle\bin\Debug\07PointInACircle.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\07PointInACircle\bin\Debug\07PointInACircle.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\07PointInACircle\obj\Debug\07PointInACircle.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\07PointInACircle\obj\Debug\07PointInACircle.pdb

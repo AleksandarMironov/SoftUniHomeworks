@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\Problem 4. Print a DeckOf52Cards\bin\Debug\Problem_4.Print_a_DeckOf52Cards.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\Problem 4. Print a DeckOf52Cards\bin\Debug\Problem_4.Print_a_DeckOf52Cards.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\Problem 4. Print a DeckOf52Cards\bin\Debug\Problem_4.Print_a_DeckOf52Cards.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\Problem 4. Print a DeckOf52Cards\obj\Debug\04PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\Problem 4. Print a DeckOf52Cards\obj\Debug\Problem_4.Print_a_DeckOf52Cards.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\Problem 4. Print a DeckOf52Cards\obj\Debug\Problem_4.Print_a_DeckOf52Cards.pdb

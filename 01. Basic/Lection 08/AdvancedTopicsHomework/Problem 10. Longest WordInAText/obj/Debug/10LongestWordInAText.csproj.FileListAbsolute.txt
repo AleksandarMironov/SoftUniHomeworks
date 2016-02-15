@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\Problem 10. Longest WordInAText\bin\Debug\Problem_10.Longest_WordInAText.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\Problem 10. Longest WordInAText\bin\Debug\Problem_10.Longest_WordInAText.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\Problem 10. Longest WordInAText\bin\Debug\Problem_10.Longest_WordInAText.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\Problem 10. Longest WordInAText\obj\Debug\Problem_10.Longest_WordInAText.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\Problem 10. Longest WordInAText\obj\Debug\Problem_10.Longest_WordInAText.pdb

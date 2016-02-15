@@ -1,0 +1,8 @@
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\ex\OperatorsExpressionsAndStatementsHomework\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.exe
+C:\Users\Viva\Desktop\Softuni\Lection 4\Homework\CODE\OperatorsExpressionsAndStatementsHomework\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.pdb

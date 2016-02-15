@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\obj\Debug\09PlayWithIntDoubleAndString.exe
+C:\Users\Viva\Desktop\Softuni\Lection 6\Homework\CODE\ConditionalStatementsHomework\09PlayWithIntDoubleAndString\obj\Debug\09PlayWithIntDoubleAndString.pdb

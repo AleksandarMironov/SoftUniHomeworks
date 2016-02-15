@@ -1,0 +1,9 @@
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+C:\Users\Viva\Desktop\Softuni\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+Z:\Сашо\Softuni\Basic Level (C# Basics)\Lection 3\Homework\Code\PrimitiveDataTypesAndVariablesHomework\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb

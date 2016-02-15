@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem1–TravellerBob\bin\Debug\Problem1–TravellerBob.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem1–TravellerBob\bin\Debug\Problem1–TravellerBob.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem1–TravellerBob\bin\Debug\Problem1–TravellerBob.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem1–TravellerBob\obj\Debug\Problem1–TravellerBob.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem1–TravellerBob\obj\Debug\Problem1–TravellerBob.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8.1\CODE\Exam19122015\Problem1–TravellerBob\obj\Debug\Problem1–TravellerBob.pdb

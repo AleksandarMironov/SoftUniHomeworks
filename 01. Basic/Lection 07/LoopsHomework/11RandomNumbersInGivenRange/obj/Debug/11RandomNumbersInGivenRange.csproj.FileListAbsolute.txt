@@ -1,0 +1,5 @@
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\11RandomNumbersInGivenRange\obj\Debug\11RandomNumbersInGivenRange.exe
+C:\Users\Viva\Desktop\Softuni\Lection 7\HOMEWORK\CODE\LoopsHomework\11RandomNumbersInGivenRange\obj\Debug\11RandomNumbersInGivenRange.pdb

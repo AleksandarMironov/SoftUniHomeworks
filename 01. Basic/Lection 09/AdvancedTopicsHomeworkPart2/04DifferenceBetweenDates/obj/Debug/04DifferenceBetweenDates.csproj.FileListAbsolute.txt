@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.exe
+C:\Users\Viva\Desktop\Softuni\Lection 9\Homework\CODE\AdvancedTopicsHomeworkPart2\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.pdb

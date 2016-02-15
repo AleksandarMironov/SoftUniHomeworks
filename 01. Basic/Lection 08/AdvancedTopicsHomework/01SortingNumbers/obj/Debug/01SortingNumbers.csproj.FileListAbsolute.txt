@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\01SortingNumbers\bin\Debug\01SortingNumbers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\01SortingNumbers\bin\Debug\01SortingNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\01SortingNumbers\bin\Debug\01SortingNumbers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\01SortingNumbers\obj\Debug\01SortingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\01SortingNumbers\obj\Debug\01SortingNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 8\Homework\CODE\AdvancedTopicsHomework\01SortingNumbers\obj\Debug\01SortingNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.exe
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 2\Homework\CODE\IntroProgrammingHomework\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.pdb
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.exe
+C:\Users\Viva\Desktop\Softuni\Lection 5\Homework\CODE\ConsoleInputOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.pdb
