@@ -1,0 +1,1 @@
+Those are my completed homeworks from Java Fundamentals course in SoftUni. September - October 2015
