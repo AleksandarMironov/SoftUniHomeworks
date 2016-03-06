@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\03CategorizeNumbers\bin\Debug\03CategorizeNumbers.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\03CategorizeNumbers\bin\Debug\03CategorizeNumbers.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\03CategorizeNumbers\bin\Debug\03CategorizeNumbers.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\03CategorizeNumbers\obj\Debug\03CategorizeNumbers.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\03CategorizeNumbers\obj\Debug\03CategorizeNumbers.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\03CategorizeNumbers\obj\Debug\03CategorizeNumbers.pdb

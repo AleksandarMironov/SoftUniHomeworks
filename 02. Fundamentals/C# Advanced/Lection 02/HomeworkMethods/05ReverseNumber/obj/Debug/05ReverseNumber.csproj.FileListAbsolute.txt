@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\05ReverseNumber\bin\Debug\05ReverseNumber.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\05ReverseNumber\bin\Debug\05ReverseNumber.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\05ReverseNumber\bin\Debug\05ReverseNumber.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\05ReverseNumber\obj\Debug\05ReverseNumber.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\05ReverseNumber\obj\Debug\05ReverseNumber.pdb

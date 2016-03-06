@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.pdb

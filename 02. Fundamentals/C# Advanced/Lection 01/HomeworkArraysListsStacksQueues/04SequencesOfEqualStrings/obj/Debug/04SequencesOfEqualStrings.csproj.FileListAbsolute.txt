@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\04SequencesOfEqualStrings\bin\Debug\04SequencesOfEqualStrings.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\04SequencesOfEqualStrings\bin\Debug\04SequencesOfEqualStrings.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\04SequencesOfEqualStrings\bin\Debug\04SequencesOfEqualStrings.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\04SequencesOfEqualStrings\obj\Debug\04SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\04SequencesOfEqualStrings\obj\Debug\04SequencesOfEqualStrings.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\04SequencesOfEqualStrings\obj\Debug\04SequencesOfEqualStrings.pdb

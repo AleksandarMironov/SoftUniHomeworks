@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 7 Функционално програмиране\Homework\CODE\FunctionalProgramming\01ClassStudent\bin\Debug\01ClassStudent.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 7 Функционално програмиране\Homework\CODE\FunctionalProgramming\01ClassStudent\bin\Debug\01ClassStudent.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 7 Функционално програмиране\Homework\CODE\FunctionalProgramming\01ClassStudent\bin\Debug\01ClassStudent.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 7 Функционално програмиране\Homework\CODE\FunctionalProgramming\01ClassStudent\obj\Debug\AllProblemsTo12.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 7 Функционално програмиране\Homework\CODE\FunctionalProgramming\01ClassStudent\obj\Debug\01ClassStudent.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 7 Функционално програмиране\Homework\CODE\FunctionalProgramming\01ClassStudent\obj\Debug\01ClassStudent.pdb

@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\01ReverseString\bin\Debug\01ReverseString.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\01ReverseString\bin\Debug\01ReverseString.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\01ReverseString\bin\Debug\01ReverseString.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\01ReverseString\obj\Debug\01ReverseString.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\01ReverseString\obj\Debug\01ReverseString.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\01ReverseString\obj\Debug\01ReverseString.pdb

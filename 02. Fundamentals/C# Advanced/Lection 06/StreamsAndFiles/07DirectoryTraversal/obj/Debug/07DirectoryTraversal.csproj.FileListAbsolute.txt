@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\07DirectoryTraversal\bin\Debug\07DirectoryTraversal.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\07DirectoryTraversal\bin\Debug\07DirectoryTraversal.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\07DirectoryTraversal\bin\Debug\07DirectoryTraversal.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\07DirectoryTraversal\obj\Debug\07DirectoryTraversal.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\07DirectoryTraversal\obj\Debug\07DirectoryTraversal.pdb

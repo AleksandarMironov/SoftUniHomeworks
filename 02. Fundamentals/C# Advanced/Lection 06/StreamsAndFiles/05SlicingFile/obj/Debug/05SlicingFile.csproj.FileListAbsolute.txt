@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\05SlicingFile\bin\Debug\05SlicingFile.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\05SlicingFile\bin\Debug\05SlicingFile.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\05SlicingFile\bin\Debug\05SlicingFile.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\05SlicingFile\obj\Debug\05SlicingFile.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\05SlicingFile\obj\Debug\05SlicingFile.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\05SlicingFile\obj\Debug\05SlicingFile.pdb

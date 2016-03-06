@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\18PINValidation\bin\Debug\18PINValidation.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\18PINValidation\bin\Debug\18PINValidation.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\18PINValidation\bin\Debug\18PINValidation.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\18PINValidation\obj\Debug\18PINValidation.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\18PINValidation\obj\Debug\18PINValidation.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\18PINValidation\obj\Debug\18PINValidation.csprojResolveAssemblyReference.cache

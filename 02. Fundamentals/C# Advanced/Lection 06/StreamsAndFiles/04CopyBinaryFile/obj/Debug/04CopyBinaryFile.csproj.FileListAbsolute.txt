@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\04CopyBinaryFile\bin\Debug\04CopyBinaryFile.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\04CopyBinaryFile\bin\Debug\04CopyBinaryFile.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\04CopyBinaryFile\bin\Debug\04CopyBinaryFile.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\04CopyBinaryFile\obj\Debug\04CopyBinaryFile.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\04CopyBinaryFile\obj\Debug\04CopyBinaryFile.pdb

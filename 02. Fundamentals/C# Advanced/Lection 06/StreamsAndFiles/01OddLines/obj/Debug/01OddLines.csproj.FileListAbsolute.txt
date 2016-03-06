@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\01OddLines\bin\Debug\01OddLines.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\01OddLines\obj\Debug\01OddLines.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\01OddLines\bin\Debug\01OddLines.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\01OddLines\bin\Debug\01OddLines.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\01OddLines\obj\Debug\01OddLines.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\01OddLines\obj\Debug\01OddLines.pdb

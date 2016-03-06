@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\17BiggestTableRow\bin\Debug\17BiggestTableRow.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\17BiggestTableRow\obj\Debug\17BiggestTableRow.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\17BiggestTableRow\bin\Debug\17BiggestTableRow.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\17BiggestTableRow\bin\Debug\17BiggestTableRow.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\17BiggestTableRow\obj\Debug\17BiggestTableRow.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\17BiggestTableRow\obj\Debug\17BiggestTableRow.pdb

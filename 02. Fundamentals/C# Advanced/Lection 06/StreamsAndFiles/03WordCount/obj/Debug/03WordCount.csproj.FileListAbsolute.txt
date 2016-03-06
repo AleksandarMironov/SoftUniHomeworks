@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\03WordCount\bin\Debug\03WordCount.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\03WordCount\bin\Debug\03WordCount.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\03WordCount\bin\Debug\03WordCount.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\03WordCount\obj\Debug\03WordCount.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\03WordCount\obj\Debug\03WordCount.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\03WordCount\obj\Debug\03WordCount.csprojResolveAssemblyReference.cache

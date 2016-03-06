@@ -1,0 +1,2 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 5 Регулярни изрази\Homework\HomeworkRegularExpressions\03ExtractEmails\bin\Debug\03ExtractEmails.exe.config

@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\04FirstLargerThanNeighbours\bin\Debug\04FirstLargerThanNeighbours.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\04FirstLargerThanNeighbours\bin\Debug\04FirstLargerThanNeighbours.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\04FirstLargerThanNeighbours\bin\Debug\04FirstLargerThanNeighbours.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\04FirstLargerThanNeighbours\obj\Debug\04FirstLargerThanNeighbours.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\04FirstLargerThanNeighbours\obj\Debug\04FirstLargerThanNeighbours.pdb

@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\01BiggerNumber\bin\Debug\01BiggerNumber.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\01BiggerNumber\bin\Debug\01BiggerNumber.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\01BiggerNumber\bin\Debug\01BiggerNumber.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\01BiggerNumber\obj\Debug\01BiggerNumber.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\01BiggerNumber\obj\Debug\01BiggerNumber.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\01BiggerNumber\obj\Debug\01BiggerNumber.pdb

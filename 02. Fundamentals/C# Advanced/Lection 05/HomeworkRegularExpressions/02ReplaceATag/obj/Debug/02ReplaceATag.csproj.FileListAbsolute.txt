@@ -1,0 +1,8 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 5 Регулярни изрази\Homework\HomeworkRegularExpressions\02ReplaceATag\bin\Debug\02ReplaceATag.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 5 Регулярни изрази\Homework\HomeworkRegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 5 Регулярни изрази\Homework\HomeworkRegularExpressions\02ReplaceATag\obj\Debug\02ReplaceATag.pdb

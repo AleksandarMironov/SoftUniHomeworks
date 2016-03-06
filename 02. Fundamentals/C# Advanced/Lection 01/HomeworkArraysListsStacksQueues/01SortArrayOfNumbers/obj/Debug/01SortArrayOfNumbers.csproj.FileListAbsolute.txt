@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\01SortArrayOfNumbers\bin\Debug\01SortArrayOfNumbers.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\01SortArrayOfNumbers\bin\Debug\01SortArrayOfNumbers.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\01SortArrayOfNumbers\bin\Debug\01SortArrayOfNumbers.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\01SortArrayOfNumbers\obj\Debug\01SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\01SortArrayOfNumbers\obj\Debug\01SortArrayOfNumbers.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\01SortArrayOfNumbers\obj\Debug\01SortArrayOfNumbers.pdb

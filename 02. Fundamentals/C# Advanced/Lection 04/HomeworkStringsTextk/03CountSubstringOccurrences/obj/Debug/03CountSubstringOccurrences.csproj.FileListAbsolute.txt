@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\03CountSubstringOccurrences\bin\Debug\03CountSubstringOccurrences.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\03CountSubstringOccurrences\bin\Debug\03CountSubstringOccurrences.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\03CountSubstringOccurrences\bin\Debug\03CountSubstringOccurrences.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\03CountSubstringOccurrences\obj\Debug\03CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\03CountSubstringOccurrences\obj\Debug\03CountSubstringOccurrences.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 4 Стрингове и текстообработка\Homework\CODE\HomeworkStringsTextk\03CountSubstringOccurrences\obj\Debug\03CountSubstringOccurrences.pdb

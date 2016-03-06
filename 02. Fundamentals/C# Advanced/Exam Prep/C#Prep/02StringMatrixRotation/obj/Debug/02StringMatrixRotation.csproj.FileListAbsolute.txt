@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\02StringMatrixRotation\bin\Debug\02StringMatrixRotation.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\02StringMatrixRotation\bin\Debug\02StringMatrixRotation.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\02StringMatrixRotation\bin\Debug\02StringMatrixRotation.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\02StringMatrixRotation\obj\Debug\02StringMatrixRotation.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\02StringMatrixRotation\obj\Debug\02StringMatrixRotation.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\02StringMatrixRotation\obj\Debug\02StringMatrixRotation.csprojResolveAssemblyReference.cache

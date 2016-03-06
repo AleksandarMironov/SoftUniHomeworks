@@ -1,0 +1,1 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 1 Структури от данни\Homework\CODE\HomeworkArraysListsStacksQueues\06SubsetSums\bin\Debug\06SubsetSums.exe.config

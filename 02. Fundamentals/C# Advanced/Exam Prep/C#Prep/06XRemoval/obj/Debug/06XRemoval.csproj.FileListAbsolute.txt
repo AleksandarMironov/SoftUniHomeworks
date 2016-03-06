@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\06XRemoval\bin\Debug\06XRemoval.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\06XRemoval\bin\Debug\06XRemoval.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\06XRemoval\bin\Debug\06XRemoval.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\06XRemoval\obj\Debug\06XRemoval.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\06XRemoval\obj\Debug\06XRemoval.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Judge exam preparation\CODE\Judge\06XRemoval\obj\Debug\06XRemoval.pdb

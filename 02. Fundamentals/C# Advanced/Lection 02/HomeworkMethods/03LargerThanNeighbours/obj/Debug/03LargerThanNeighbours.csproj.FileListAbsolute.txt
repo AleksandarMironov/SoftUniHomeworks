@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\03LargerThanNeighbours\bin\Debug\03LargerThanNeighbours.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\03LargerThanNeighbours\obj\Debug\03LargerThanNeighbours.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\03LargerThanNeighbours\bin\Debug\03LargerThanNeighbours.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\03LargerThanNeighbours\bin\Debug\03LargerThanNeighbours.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\03LargerThanNeighbours\obj\Debug\03LargerThanNeighbours.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 2 Методи\Homework\CODE\HomeworkMethods\03LargerThanNeighbours\obj\Debug\03LargerThanNeighbours.pdb

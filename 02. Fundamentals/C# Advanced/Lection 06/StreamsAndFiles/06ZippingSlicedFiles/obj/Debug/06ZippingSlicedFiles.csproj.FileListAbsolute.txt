@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\06ZippingSlicedFiles\bin\Debug\06ZippingSlicedFiles.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\06ZippingSlicedFiles\bin\Debug\06ZippingSlicedFiles.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\06ZippingSlicedFiles\bin\Debug\06ZippingSlicedFiles.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\06ZippingSlicedFiles\obj\Debug\06ZippingSlicedFiles.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 6 Файлове и потоци\Homework\CODE\StreamsAndFiles\06ZippingSlicedFiles\obj\Debug\06ZippingSlicedFiles.pdb

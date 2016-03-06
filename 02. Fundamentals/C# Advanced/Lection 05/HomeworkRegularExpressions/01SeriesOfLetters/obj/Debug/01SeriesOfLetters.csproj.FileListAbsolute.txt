@@ -1,0 +1,9 @@
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 3 Многомерни масиви, речници, множества\Homework\CODE\HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.pdb
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 5 Регулярни изрази\Homework\HomeworkRegularExpressions\01SeriesOfLetters\bin\Debug\01SeriesOfLetters.exe.config
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 5 Регулярни изрази\Homework\HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.exe
+Z:\Сашо\Softuni\Fundamental Level\Advanced C#\Lection 5 Регулярни изрази\Homework\HomeworkRegularExpressions\01SeriesOfLetters\obj\Debug\01SeriesOfLetters.pdb
