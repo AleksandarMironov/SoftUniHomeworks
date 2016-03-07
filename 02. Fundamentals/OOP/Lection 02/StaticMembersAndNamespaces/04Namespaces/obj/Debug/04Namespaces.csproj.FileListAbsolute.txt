@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\04Namespaces\bin\Debug\04Namespaces.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\04Namespaces\bin\Debug\04Namespaces.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\04Namespaces\bin\Debug\04Namespaces.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\04Namespaces\obj\Debug\04Namespaces.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\04Namespaces\obj\Debug\04Namespaces.pdb

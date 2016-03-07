@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\01Shapes\bin\Debug\01Shapes.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\01Shapes\obj\Debug\01Shapes.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\01Shapes\bin\Debug\01Shapes.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\01Shapes\bin\Debug\01Shapes.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\01Shapes\obj\Debug\01Shapes.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\01Shapes\obj\Debug\01Shapes.pdb

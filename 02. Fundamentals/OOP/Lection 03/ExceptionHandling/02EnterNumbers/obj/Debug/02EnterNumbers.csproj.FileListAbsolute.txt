@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\02EnterNumbers\bin\Debug\02EnterNumbers.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\02EnterNumbers\bin\Debug\02EnterNumbers.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\02EnterNumbers\bin\Debug\02EnterNumbers.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\02EnterNumbers\obj\Debug\02EnterNumbers.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\02EnterNumbers\obj\Debug\02EnterNumbers.pdb

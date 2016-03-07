@@ -1,0 +1,1 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 7\Homework\CODE\DelegatesAndEventsHomework\01.CustomLINQExtensionMethods\bin\Debug\01.CustomLINQExtensionMethods.exe.config

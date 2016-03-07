@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\01HumanStudentWorker\bin\Debug\01HumanStudentWorker.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\01HumanStudentWorker\obj\Debug\01HumanStudentWorker.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\01HumanStudentWorker\bin\Debug\01HumanStudentWorker.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\01HumanStudentWorker\bin\Debug\01HumanStudentWorker.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\01HumanStudentWorker\obj\Debug\01HumanStudentWorker.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\01HumanStudentWorker\obj\Debug\01HumanStudentWorker.pdb

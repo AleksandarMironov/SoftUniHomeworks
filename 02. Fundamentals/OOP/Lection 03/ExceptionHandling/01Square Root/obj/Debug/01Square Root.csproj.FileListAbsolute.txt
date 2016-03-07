@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\01Square Root\bin\Debug\01Square Root.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\01Square Root\bin\Debug\01Square Root.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\01Square Root\bin\Debug\01Square Root.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\01Square Root\obj\Debug\01Square Root.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\01Square Root\obj\Debug\01Square Root.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 3 Работа с изключени\Homework\CODE\ExceptionHandling\01Square Root\obj\Debug\01Square Root.pdb

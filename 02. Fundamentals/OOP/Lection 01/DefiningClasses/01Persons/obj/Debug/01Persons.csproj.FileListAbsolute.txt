@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\01Persons\bin\Debug\01Persons.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\01Persons\obj\Debug\01Persons.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\01Persons\bin\Debug\01Persons.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\01Persons\bin\Debug\01Persons.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\01Persons\obj\Debug\01Persons.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\01Persons\obj\Debug\01Persons.pdb

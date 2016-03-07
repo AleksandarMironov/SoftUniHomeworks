@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\03\bin\Debug\03.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\03\bin\Debug\03.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\03\bin\Debug\03.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\03\obj\Debug\03.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\03\obj\Debug\03.pdb

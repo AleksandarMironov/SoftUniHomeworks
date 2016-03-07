@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\02Customer\bin\Debug\02Customer.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\02Customer\bin\Debug\02Customer.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\02Customer\bin\Debug\02Customer.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\02Customer\obj\Debug\02Customer.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\02Customer\obj\Debug\02Customer.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\02Customer\obj\Debug\02Customer.pdb

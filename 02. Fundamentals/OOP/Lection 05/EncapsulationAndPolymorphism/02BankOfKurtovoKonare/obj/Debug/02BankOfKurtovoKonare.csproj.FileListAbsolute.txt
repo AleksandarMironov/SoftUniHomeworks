@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\02BankOfKurtovoKonare\bin\Debug\02BankOfKurtovoKonare.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\02BankOfKurtovoKonare\bin\Debug\02BankOfKurtovoKonare.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\02BankOfKurtovoKonare\bin\Debug\02BankOfKurtovoKonare.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\02BankOfKurtovoKonare\obj\Debug\02BankOfKurtovoKonare.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 5\Homework\CODE\EncapsulationAndPolymorphism\02BankOfKurtovoKonare\obj\Debug\02BankOfKurtovoKonare.pdb

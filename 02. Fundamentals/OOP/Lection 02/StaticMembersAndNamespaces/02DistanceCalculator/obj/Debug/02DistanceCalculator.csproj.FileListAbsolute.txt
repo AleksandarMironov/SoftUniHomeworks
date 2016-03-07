@@ -1,0 +1,8 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\StaticMembersAndNamespaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\StaticMembersAndNamespaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\StaticMembersAndNamespaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\StaticMembersAndNamespaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\StaticMembersAndNamespaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\02DistanceCalculator\bin\Debug\02DistanceCalculator.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\02DistanceCalculator\obj\Debug\02DistanceCalculator.pdb

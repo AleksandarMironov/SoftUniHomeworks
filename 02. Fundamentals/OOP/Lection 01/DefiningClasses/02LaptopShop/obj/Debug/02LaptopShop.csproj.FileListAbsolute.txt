@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\02LaptopShop\bin\Debug\02LaptopShop.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\02LaptopShop\bin\Debug\02LaptopShop.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\02LaptopShop\bin\Debug\02LaptopShop.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\02LaptopShop\obj\Debug\02LaptopShop.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\02LaptopShop\obj\Debug\02LaptopShop.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\02LaptopShop\obj\Debug\02LaptopShop.pdb

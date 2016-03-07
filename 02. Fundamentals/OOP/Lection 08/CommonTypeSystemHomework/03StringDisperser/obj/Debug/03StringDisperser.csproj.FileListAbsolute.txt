@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\03StringDisperser\bin\Debug\03StringDisperser.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\03StringDisperser\bin\Debug\03StringDisperser.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\03StringDisperser\bin\Debug\03StringDisperser.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\03StringDisperser\obj\Debug\03StringDisperser.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 8\Homework\CODE\CommonTypeSystemHomework\03StringDisperser\obj\Debug\03StringDisperser.pdb

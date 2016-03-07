@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\03PCCatalog\bin\Debug\03PCCatalog.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\03PCCatalog\bin\Debug\03PCCatalog.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\03PCCatalog\bin\Debug\03PCCatalog.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\03PCCatalog\obj\Debug\03PCCatalog.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 1 Дефиниране на класове\CODE\DefiningClasses\03PCCatalog\obj\Debug\03PCCatalog.pdb

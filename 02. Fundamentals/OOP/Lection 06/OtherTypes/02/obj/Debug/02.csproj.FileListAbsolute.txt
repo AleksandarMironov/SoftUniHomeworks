@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\02\bin\Debug\02.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\02\bin\Debug\02.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\02\bin\Debug\02.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\02\obj\Debug\02.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\02\obj\Debug\02.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Лецтион 6\Хомеворк\OtherTypes\02\obj\Debug\02.pdb

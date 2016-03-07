@@ -1,0 +1,5 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\02Animals\bin\Debug\02Animals.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\02Animals\bin\Debug\02Animals.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\02Animals\bin\Debug\02Animals.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\02Animals\obj\Debug\02Animals.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 4 Наследяване и абстракция\Homework\CODE\InheritanceAndAbstraction\02Animals\obj\Debug\02Animals.pdb

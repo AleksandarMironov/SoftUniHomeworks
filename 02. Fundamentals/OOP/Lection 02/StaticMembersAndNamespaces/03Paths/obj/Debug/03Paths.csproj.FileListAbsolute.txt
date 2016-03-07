@@ -1,0 +1,6 @@
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\03Paths\bin\Debug\03Paths.exe.config
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\03Paths\obj\Debug\03Paths.csprojResolveAssemblyReference.cache
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\03Paths\bin\Debug\03Paths.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\03Paths\bin\Debug\03Paths.pdb
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\03Paths\obj\Debug\03Paths.exe
+Z:\Сашо\Softuni\Fundamental Level\OOP in C#\Lection 2 Статични членове и пространства от имена\Homework\CODE\StaticMembersAndNamespaces\03Paths\obj\Debug\03Paths.pdb
